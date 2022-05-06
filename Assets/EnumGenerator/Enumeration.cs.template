@@ -1,0 +1,7 @@
+﻿///<summary>
+/// Generated code
+///</summary>
+public enum $CLASS_NAME : $ENUM_VALUE_TYPE
+{
+$REPEAT_START	$ENUM_NAME = $ENUM_VALUE,$REPEAT_END
+}

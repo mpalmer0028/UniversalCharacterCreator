@@ -1,0 +1,16 @@
+{
+	database:[
+		{
+			TableName:"TestEntity",
+			EnumName:"TestEntity",
+			VariableNameColumn:"Name",
+			VariableValueColumn:"ID",
+			VariableValueType:"int",
+			DestinationPath:"Enums",
+		},
+		
+	],
+	resources:[
+		
+	]
+}
